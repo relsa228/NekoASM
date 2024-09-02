@@ -1,5 +1,5 @@
 /* @refresh reload */
 import { render } from "solid-js/web";
-import App from "./App";
+import Workspace from "./pages/workspase/workspace";
 
-render(() => <App />, document.getElementById("root") as HTMLElement);
+render(() => <Workspace />, document.getElementById("root") as HTMLElement);
