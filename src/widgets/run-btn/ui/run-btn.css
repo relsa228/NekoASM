@@ -1,0 +1,25 @@
+.run-btn {
+  background-color: #0b0e14;
+  border: none;
+  padding: 0 0 0 0;
+  margin: 0;
+  font-size: inherit;
+  font-weight: inherit;
+  letter-spacing: inherit;
+  outline: none;
+  border-radius: 0;
+  box-shadow: none;
+  display: flex;
+  align-items: flex-start;
+  padding-top: 0;
+  padding-bottom: 0;
+  margin-right: 10px;
+}
+.run-btn > * {
+  margin: 0;
+}
+
+.run-btn h1 {
+  color: #ff45b4;
+  font-size: 16px;
+}
